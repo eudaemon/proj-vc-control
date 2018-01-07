@@ -4,25 +4,25 @@
 		"task01":
 		{
 			"market": "ETH-LGD",
-			"rate": 0.0389359,
+			"amount": 0.0389359,
 			"method": "free"
 		},
 		"task02":
 		{
 			"market": "ETH-RLC",
-			"rate": 0.04060440,
+			"amount": 0.04060440,
 			"method": "free"
 		},
 		"task03":
 		{
 			"market": "ETH-TIX",
-			"rate": 0.0389359,
+			"amount": 0.0389359,
 			"method": "free"
 		},
 		"task04":
 		{
 			"market": "ETH-XEM",
-			"rate": 0.03391181,
+			"amount": 0.03391181,
 			"method": "free"
 		}
 	}
