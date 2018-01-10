@@ -1,35 +1,5 @@
 {
 	"version": 0.4,
 	"tasks": {
-		"task01":
-		{
-			"market": "ETH-LGD",
-			"amount": 0.0389359,
-			"method": "free"
-		},
-		"task02":
-		{
-			"market": "ETH-RLC",
-			"amount": 0.04060440,
-			"method": "free"
-		},
-		"task03":
-		{
-			"market": "ETH-TIX",
-			"amount": 0.0389359,
-			"method": "free"
-		},
-		"task04":
-		{
-			"market": "ETH-XEM",
-			"amount": 0.03391181,
-			"method": "free"
-		},
-		"task05":
-		{
-			"market": "ETH-SNT",
-			"amount": 1.0,
-			"method": "free"
-		}
 	}
 }
