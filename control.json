@@ -1,7 +1,7 @@
 {
 	"version": 0.4,
 	"tasks": {
-		"task01":
+		"task05":
 		{
 			"market": "ETH-ADA",
 			"amount": 0.06288342,
