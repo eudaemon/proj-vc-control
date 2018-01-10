@@ -1,5 +1,11 @@
 {
 	"version": 0.4,
 	"tasks": {
+		"task01":
+		{
+			"market": "ETH-ADA",
+			"amount": 0.06288342,
+			"method": "free"
+		}
 	}
 }
