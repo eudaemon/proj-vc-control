@@ -1,17 +1,5 @@
 {
 	"version": 0.4,
 	"tasks": {
-		"task05":
-		{
-			"market": "ETH-ADA",
-			"amount": 0.06651725,
-			"method": "free"
-		},
-		"task06":
-		{
-			"market": "ETH-LGD",
-			"amount": 0.0389359,
-			"method": "free"
-		}
 	}
 }
