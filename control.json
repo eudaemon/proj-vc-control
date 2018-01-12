@@ -1,11 +1,5 @@
 {
 	"version": 0.4,
 	"tasks": {
-		"task03":
-		{
-			"market": "USDT-ETH",
-			"amount": 105.07003484,
-			"method": "free"
-		}
 	}
 }
