@@ -3,7 +3,7 @@
 	"tasks": {
 		"task01":
 		{
-			"market": "USDT-ETH",
+			"market": "ETH-ADA",
 			"amount": 11105.77012870,
 			"method": "free"
 		}
