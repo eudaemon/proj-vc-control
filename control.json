@@ -1,10 +1,19 @@
 {
 	"version": 0.4,
+	"fota": {
+		"version": 0.4
+	},
 	"tasks": {
 		"task01":
 		{
 			"market": "USDT-ETH",
-			"amount": 105.77012870,
+			"amount": 50.0,
+			"method": "free"
+		},
+		"task02":
+		{
+			"market": "USDT-ADA",
+			"amount": 50.0,
 			"method": "free"
 		}
 	}
