@@ -1,5 +1,6 @@
 {
 	"version": 0.4,
+	"fota": 0.5,
 	"tasks": {
 		"task01":
 		{
