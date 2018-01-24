@@ -4,7 +4,7 @@
 		"version": 0.4
 	},
 	"tasks": {
-		"task103":
+		"task03":
 		{
 			"market": "USDT-ETH",
 			"amount": 50.0,
