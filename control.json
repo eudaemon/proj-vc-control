@@ -4,13 +4,13 @@
 		"version": 0.4
 	},
 	"tasks": {
-		"task03":
+		"task06":
 		{
 			"market": "USDT-ETH",
 			"amount": 50.0,
 			"method": "free"
 		},
-		"task05":
+		"task07":
 		{
 			"market": "USDT-ADA",
 			"amount": 50.0,
