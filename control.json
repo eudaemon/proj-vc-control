@@ -4,8 +4,8 @@
 		"version": 0.6
 	},
 	"tr_fee": 0.0025,
-	"price_ratio": 1.24,
-	"quant_ratio": 0.275,
+	"price_ratio": 1.14,
+	"quant_ratio": 0.775,
 	"sleep_time_long": 60,
 	"last_bought_expire": 120,
 	"tasks": {
