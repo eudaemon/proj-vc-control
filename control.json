@@ -3,6 +3,7 @@
 	"fota": {
 		"version": 0.5
 	},
+	"tr_fee": 0.00035,
 	"tasks": {
 		"task03":
 		{
