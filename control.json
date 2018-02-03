@@ -1,7 +1,7 @@
 {
-	"version": 0.4,
+	"conf_version": 0.4,
 	"fota": {
-		"version": 0.5
+		"version": 0.6
 	},
 	"tr_fee": 0.0025,
 	"price_ratio": 1.14,
@@ -9,13 +9,13 @@
 	"sleep_time_long": 60,
 	"last_bought_expire": 120,
 	"tasks": {
-		"task03":
+		"task01":
 		{
 			"market": "USDT-ETH",
 			"amount": 50.0,
 			"method": "free"
 		},
-		"task04":
+		"task02":
 		{
 			"market": "USDT-ADA",
 			"amount": 50.0,
