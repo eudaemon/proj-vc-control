@@ -5,7 +5,7 @@
 	},
 	"tr_fee": 0.0025,
 	"price_ratio": 1.14,
-	"quant_ratio": 0.275,
+	"quant_ratio": 0.175,
 	"sleep_time_long": 60,
 	"last_bought_expire": 120,
 	"tasks": {
