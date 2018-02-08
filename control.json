@@ -1,11 +1,12 @@
 {
 	"conf_version": 0.4,
 	"fota": {
-		"version": 0.601
+		"version": 0.602
 	},
 	"tr_fee": 0.0025,
 	"price_ratio": 1.14,
-	"quant_ratio": 0.275,
+	"quant_ratio_buy": 0.775,
+	"quant_ratio_sell": 0.175,
 	"sleep_time_long": 60,
 	"last_bought_expire": 360,
 	"tasks": {
