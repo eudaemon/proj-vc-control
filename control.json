@@ -1,7 +1,7 @@
 {
 	"conf_version": 0.4,
 	"fota": {
-		"version": 0.602
+		"version": 0.603
 	},
 	"tr_fee": 0.0025,
 	"price_ratio": 1.20,
