@@ -13,14 +13,14 @@
 		"task01":
 		{
 			"market": "BTC-IGNIS",
-			"amount": 1.0,
-			"method": "sell"
+			"amount": 0.003539875,
+			"method": "free"
 		},
 		"task03":
 		{
 			"market": "BTC-XEM",
-			"amount": 100.0,
-			"method": "buy"
+			"amount": 0.003549875,
+			"method": "free"
 		},
 		"task91":
 		{
