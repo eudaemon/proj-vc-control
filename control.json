@@ -16,6 +16,12 @@
 			"amount": 1.0,
 			"method": "buy"
 		},
+		"task02":
+		{
+			"market": "USDT-BTC",
+			"amount": 100.0,
+			"method": "buy"
+		},
 		"task91":
 		{
 			"market": "USDT-ETH",
