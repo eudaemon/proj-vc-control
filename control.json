@@ -16,7 +16,7 @@
 			"amount": 1.0,
 			"method": "buy"
 		},
-		"task02":
+		"task03":
 		{
 			"market": "USDT-BTC",
 			"amount": 100.0,
