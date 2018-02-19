@@ -6,7 +6,7 @@
 	"tr_fee": 0.0025,
 	"price_ratio": 1.20,
 	"quant_ratio_buy": 0.125,
-	"quant_ratio_sell": 0.975,
+	"quant_ratio_sell": 0.175,
 	"sleep_time_long": 60,
 	"last_bought_expire": 7200,
 	"tasks": {
@@ -14,11 +14,11 @@
 		{
 			"market": "BTC-IGNIS",
 			"amount": 1.0,
-			"method": "free"
+			"method": "sell"
 		},
 		"task03":
 		{
-			"market": "USDT-BTC",
+			"market": "BTC-XEM",
 			"amount": 100.0,
 			"method": "buy"
 		},
