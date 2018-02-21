@@ -8,7 +8,7 @@
 	"quant_ratio_buy": 0.125,
 	"quant_ratio_sell": 0.855,
 	"sleep_time_long": 60,
-	"last_bought_expire": 7200,
+	"last_bought_expire": 72000,
 	"tasks": {
 		"task01":
 		{
