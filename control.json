@@ -5,12 +5,12 @@
 	},
 	"tr_fee": 0.0025,
 	"price_ratio": 1.20,
-	"quant_ratio_buy": 0.825,
+	"quant_ratio_buy": 0.875,
 	"quant_ratio_sell": 0.075,
 	"sleep_time_long": 60,
 	"last_bought_expire": 720,
 	"tasks": {
-		"task01":
+		"task91":
 		{
 			"market": "BTC-IGNIS",
 			"amount": 100.003589875,
@@ -22,10 +22,10 @@
 			"amount": 0.003539875,
 			"method": "free"
 		},
-		"task91":
+		"task01":
 		{
 			"market": "USDT-ETH",
-			"amount": 40.0,
+			"amount": 1040.0,
 			"method": "free"
 		},
 		"task92":
